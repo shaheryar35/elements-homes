@@ -1,6 +1,6 @@
 body {
   /* margin: 0px; */
-  margin: 0% 2%;
+  margin: 0% 5%;
 }
 /* .main-container {
   margin: 0% 2%;
@@ -29,7 +29,7 @@ body {
   opacity: 1;
 }
 .text-heading {
-  padding: 11% 2% 0% 2.5%;
+  padding: 15% 2% 2% 0.5%;
 
   max-width: 400px;
 }
@@ -42,20 +42,20 @@ body {
   letter-spacing: 0px;
   color: #ffffff;
   opacity: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  /* display: flex; */
+  /* justify-content: center;
+  align-items: center; */
 }
 .eco-friendly {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   font: var(--unnamed-font-style-normal) normal
     var(--unnamed-font-weight-normal) var(--unnamed-font-size-20) /
     var(--unnamed-line-spacing-37) Muli;
   letter-spacing: var(--unnamed-character-spacing-0);
   color: var(--grey-0);
-  text-align: left;
+  /* text-align: left; */
   font: normal normal normal 20px/37px Muli;
   letter-spacing: 0px;
   color: #ffffff;
@@ -254,7 +254,7 @@ body {
 }
 
 .pre-vision-container .middle-container {
-  width: 35%;
+  width: 40%;
 }
 .pre-vision-container .middle-container img {
   width: 100%;
@@ -267,10 +267,10 @@ body {
   margin: 50px 0px;
 }
 .vision-image-logo1 {
-  padding: 0% 5% 10% 10%;
+  padding: 0% 5% 10% 1%;
 }
 .abut-us-content {
-  padding: 0% 5% 0% 10%;
+  padding: 0% 5% 0% 0%;
 }
 .vision-image-logo1 p {
   font: var(--unnamed-font-style-normal) normal
@@ -317,12 +317,12 @@ body {
 }
 
 .pre-about-us-container .middle-about-us-container {
-  width: 35%;
+  width: 40%;
   background-color: #ffffff;
 }
 .pre-about-us-container .right-side-about-us-container {
   background-color: #ffffff;
-  width: 5%;
+  width: 0%;
 
   background: transparent url("./asserts/Mask\ Group\ 8.svg") 100% 0% no-repeat
     padding-box;
@@ -428,7 +428,8 @@ body {
 }
 @media (max-width: 1200px) and (min-width: 600px) {
   body {
-    margin: 0px;
+    /* margin: 0px; */
+    margin: 0% 5%;
   }
   .pre-about-us-container .middle-about-us-container .img-responsive {
     width: 100%;
